@@ -1,1 +1,1 @@
-module othermod
+module github.com/brownaaron/testmod/othermod
